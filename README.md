@@ -1,9 +1,5 @@
 ## Hi there 👋 I´m Andrea
-<p align="center">
-  <img src="https://github.com/abartolo-g/abartolo-g/blob/main/banner.png?raw=true" alt="Banner Andrea Bartolo" width="100%">
-</p>
-
-<br>
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/18838fb0-4530-4284-a92c-f267382a2129" />
 
 
 - 🔭 Curiosa y orientada a la resolución de problemas mediante datos.
