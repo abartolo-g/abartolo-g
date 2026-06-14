@@ -16,4 +16,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="45" height="45"/>
 </p>
-
+https://skillicons.dev/icons?i=py,postgres,matlab,tableau
