@@ -10,4 +10,10 @@
 
 #### 🛠️ Tecnologías y Herramientas
 
-![Python](https://img.shields.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white) ![Power BI](https://img.shields.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Excel](https://img.shields.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" alt="powerbi" width="45" height="45" style="background-color: #2b2b2b; padding: 5px; border-radius: 8px;"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="excel" width="45" height="45" style="background-color: #2b2b2b; padding: 5px; border-radius: 8px;"/>
+</p>
+
