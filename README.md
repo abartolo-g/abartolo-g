@@ -10,5 +10,4 @@
 
 #### 🛠️ Tecnologías y Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,powerbi,excel)](https://skillicons.dev)
-
+![Python](https://img.shields.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white) ![Power BI](https://img.shields.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Excel](https://img.shields.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
