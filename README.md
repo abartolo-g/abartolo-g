@@ -1,5 +1,10 @@
 ## Hi there 👋 I´m Andrea
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/de909c4a-5e7a-4bd8-a803-2f15df546c31" /> <br>
+<p align="center">
+  <img src="https://github.com/abartolo-g/abartolo-g/blob/main/banner.png?raw=true" alt="Banner Andrea Bartolo" width="100%">
+</p>
+
+<br>
+
 
 - 🔭 Curiosa y orientada a la resolución de problemas mediante datos.
 - 🌱 Actualmente me preparo para Data Analyst en el BootCamp TrepleTen, entuciasta por aplicar y compartir mi conocimiento en proyectos que ayuden a mejorar la eficiencia. 
